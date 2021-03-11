@@ -4,5 +4,7 @@
 ![javascript](https://img.shields.io/badge/Languages-JavaScript-yellow?style=flat-square&logo=JavaScript)
 ![spring](https://img.shields.io/badge/Framework-Spring-green?style=flat-square&logo=Spring)
 ![vue](https://img.shields.io/badge/Framework-Vue.js-success?style=flat-square&logo=vue.js)
-![intellij](https://img.shields.io/badge/Tool-IntelliJ-lightgrey?style=flat-square&logo=IntelliJ%20IDEA)
+<br>
+![intellij](https://img.shields.io/badge/Tools-IntelliJ-lightgrey?style=flat-square&logo=IntelliJ%20IDEA)
+![git](https://img.shields.io/badge/Tools-Git-blueviolet?style=flat-square&logo=Git&logoColor=A100FF)
 
