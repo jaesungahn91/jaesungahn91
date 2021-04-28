@@ -8,3 +8,5 @@
 ![intellij](https://img.shields.io/badge/Tools-IntelliJ-lightgrey?style=flat-square&logo=IntelliJ%20IDEA)
 ![git](https://img.shields.io/badge/Tools-Git-blueviolet?style=flat-square&logo=Git&logoColor=A100FF)
 
+[![Github stats](https://github-readme-stats.vercel.app/api?username=jaesungahn91&show_icons=true&include_all_commits=true)](https://github.com/jaesungahn91/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaesungahn91&layout=compact)](https://github.com/jaesungahn91/github-readme-stats)
