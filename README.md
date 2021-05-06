@@ -1,4 +1,4 @@
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjaesungahn91&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)   
+### :heavy_check_mark:[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjaesungahn91&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaesungahn91&layout=compact)](https://github.com/jaesungahn91/github-readme-stats)
 
 ---
@@ -14,4 +14,4 @@
 
 ---
 
-### :book: [Today I Learned](https://jaesungahn91.github.io/TIL/)
+### :heavy_check_mark::book: [Today I Learned](https://jaesungahn91.github.io/TIL/)
