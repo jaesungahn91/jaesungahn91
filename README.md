@@ -11,4 +11,5 @@
 ![git](https://img.shields.io/badge/Tools-Git-blueviolet?style=flat-square&logo=Git&logoColor=A100FF)
 
 ### :heavy_check_mark: [Today I Learned :book:](https://jaesungahn91.github.io/TIL/) 
- 
+
+### 📄 [Resume](https://www.notion.so/06a164f301cc4426bd9296cec57338ee)
