@@ -12,4 +12,4 @@
 
 ### :heavy_check_mark: [Today I Learned :book:](https://jaesungahn91.github.io/TIL/) 
 
-### :heavy_check_mark: [Resume 📄](https://www.notion.so/06a164f301cc4426bd9296cec57338ee)
+### :heavy_check_mark: [Resume 📄](https://adjoining-scallop-165.notion.site/06a164f301cc4426bd9296cec57338ee)
